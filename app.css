@@ -6,7 +6,7 @@ body {
     font-size: 16px;
 }
 canvas {
-    background: skyblue;
+    background: rgb(185, 97, 97);
 }
 ul {
     list-style: none;
@@ -27,7 +27,7 @@ ul {
 #tools button {
     border:0;
     border-radius:2px;
-    background: tomato;
+    background: rgb(59, 80, 40);
     padding:6px 10px;
     cursor: pointer;
     color:white;
